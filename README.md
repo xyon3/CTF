@@ -2,8 +2,7 @@
 Hello, I'm xy. I am a beginner and I want to learn more about hacking.
 <br/>
 
-You can watch we suffer at twitch
 ```
-twitch.tv/xyone3
+You can watch me suffer on my [Youtube Channel](https://www.youtube.com/channel/UC3YCcSh_fxiY5q2kxIVOwNA)x
 ```
 Thank you!!
