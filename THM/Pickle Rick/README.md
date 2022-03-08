@@ -123,4 +123,4 @@ and now the last flag at /root <br/>
 Thank you for reading the writeup! You can reach me on twitter and suffer with me on twitch haha!
 
 Twitter: @poldreis <br/>
-Twtich: twitch.tv/xyon3
+Youtube: [xyon3](https://www.youtube.com/channel/UC3YCcSh_fxiY5q2kxIVOwNA)
